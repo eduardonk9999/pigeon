@@ -27,7 +27,11 @@
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"HotDogok.png","CopyToMask":-1,"filePath":"datafiles","name":"HotDogok.png","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"Pombo-Sheet-Final.aseprite","CopyToMask":-1,"filePath":"datafiles","name":"Pombo-Sheet-Final.aseprite","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"Pombo-Sheet.aseprite","CopyToMask":-1,"filePath":"datafiles","name":"Pombo-Sheet.aseprite","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -35,8 +39,14 @@
   },
   "name":"pigeon",
   "resources":[
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"background_1","path":"sprites/background_1/background_1.yy",},},
+    {"id":{"name":"FAIXA","path":"sprites/FAIXA/FAIXA.yy",},},
+    {"id":{"name":"HotDogok","path":"sprites/HotDogok/HotDogok.yy",},},
+    {"id":{"name":"Pombo_Sheet_Final","path":"sprites/Pombo_Sheet_Final/Pombo_Sheet_Final.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
